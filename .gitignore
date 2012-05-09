@@ -2,5 +2,9 @@
 bin
 obj
 
+# standard ignore
+TripPlanner.suo
+Website/Website.csproj.user
+
 # mstest test results
 TestResults
